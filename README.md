@@ -1,3 +1,9 @@
+![Google Sheets](https://img.shields.io/badge/Platform-Google%20Sheets-34A853)
+![Apps Script](https://img.shields.io/badge/Automation-Apps%20Script-FBBC04)
+![Telegram](https://img.shields.io/badge/API-Telegram-2CA5E0)
+![Status](https://img.shields.io/badge/Status-Production%20Use-success)
+
+
 # 📦 Sistema Profesional de Control de Pedidos e Inventario  
 Google Sheets + Apps Script + Telegram
 
